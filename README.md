@@ -59,6 +59,7 @@
 
 ## Hardware : 
 ![System Design](https://img.shields.io/badge/System%20Design-%23005588.svg?style=for-the-badge)
+![PortaPack](https://shields.io)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Verilog](https://img.shields.io/badge/Verilog-%23F00000.svg?style=for-the-badge&logoColor=white)
