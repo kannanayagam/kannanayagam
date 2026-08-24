@@ -113,10 +113,5 @@
 ![Simulation](https://img.shields.io/badge/Simulation-%23D84315.svg?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
 
-/**
-## Learning:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-**/
+
 
