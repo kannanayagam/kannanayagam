@@ -53,15 +53,22 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Hardware : 
+![System Design](https://img.shields.io/badge/System%20Design-%23005588.svg?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Verilog](https://img.shields.io/badge/Verilog-%23F00000.svg?style=for-the-badge&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-%2300487D.svg?style=for-the-badge&logoColor=white)
+![VLSI](https://img.shields.io/badge/VLSI-%234B0082.svg?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=for-the-badge)
+
 
 ## Tech Stack:
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -80,28 +87,20 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
+
+
+# AI & ML : 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-%23009688.svg?style=for-the-badge)
-![RTOS](https://img.shields.io/badge/RTOS-%232196F3.svg?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-%23F00000.svg?style=for-the-badge&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-%2300487D.svg?style=for-the-badge&logoColor=white)
-![VLSI](https://img.shields.io/badge/VLSI-%234B0082.svg?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFD600.svg?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-%2300ACC1.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-%23005588.svg?style=for-the-badge)
+
 
 ## Quant & Math: 
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-%23007ACC.svg?style=for-the-badge)
