@@ -65,20 +65,20 @@
 ![VHDL](https://img.shields.io/badge/VHDL-%2300487D.svg?style=for-the-badge&logoColor=white)
 ![VLSI](https://img.shields.io/badge/VLSI-%234B0082.svg?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
 ## Tech Stack:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-4E8DF5.svg?style=for-the-badge&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
