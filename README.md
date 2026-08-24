@@ -5,8 +5,25 @@
 </p>
 
 <h1 align="left">Hi 👋, </h1>
-<p align="left">Welcome to my GitHub profile! I'm a student at SUSS, pursuing a BSc in BICT. I have a deep interest in the field of AI and CyberSecuirty. I am using this fig for showcase some of the projects i am working on</p>
+<p align="left">Welcome to my GitHub profile!</p>
 
+
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="width: 45%; border: none; vertical-align: top;">
+      
+- Diploma in EEE - Microelectronics , Republic Polytechnic
+- BSC ICT SUSS 
+- Computer System and Hardware Engineering                           
+- Microelectronics , Embedded Engineering  
+  
+
+    </td>
+    <td style="width: 15%; border: none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgyeW53eGtsYjR3eGZ3eG5ocWx5amlicmg0OHVva2dzbGg1MW9oMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rbclQHVvW7JYJiVAuf/giphy.gif" height="200px"/>
+    </td>
+  </tr>
+</table>
 
 
 
