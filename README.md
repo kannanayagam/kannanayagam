@@ -66,6 +66,7 @@
 ![VLSI](https://img.shields.io/badge/VLSI-%234B0082.svg?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=for-the-badge)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
 
 
 ## Tech Stack:
@@ -110,7 +111,7 @@
 ![Quant Analytics](https://img.shields.io/badge/Quant_Analytics-%23000000.svg?style=for-the-badge)
 ![Graph Theory](https://img.shields.io/badge/Graph%20Theory-%23004D40.svg?style=for-the-badge)
 ![Simulation](https://img.shields.io/badge/Simulation-%23D84315.svg?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
+
 
 
 
